@@ -1,0 +1,44 @@
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\appsettings.json
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\.NetCore.exe
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\.NetCore.deps.json
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\.NetCore.runtimeconfig.json
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\.NetCore.runtimeconfig.dev.json
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\.NetCore.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\ref\.NetCore.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\.NetCore.pdb
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\obj\Debug\net5.0\.NetCore.csproj.AssemblyReference.cache
+C:\Users\Abdullah Javed\Desktop\.NetCore\obj\Debug\net5.0\.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah Javed\Desktop\.NetCore\obj\Debug\net5.0\.NetCore.AssemblyInfoInputs.cache
+C:\Users\Abdullah Javed\Desktop\.NetCore\obj\Debug\net5.0\.NetCore.AssemblyInfo.cs
+C:\Users\Abdullah Javed\Desktop\.NetCore\obj\Debug\net5.0\.NetCore.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Javed\Desktop\.NetCore\obj\Debug\net5.0\.NetCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abdullah Javed\Desktop\.NetCore\obj\Debug\net5.0\.NetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abdullah Javed\Desktop\.NetCore\obj\Debug\net5.0\staticwebassets\.NetCore.StaticWebAssets.Manifest.cache
+C:\Users\Abdullah Javed\Desktop\.NetCore\obj\Debug\net5.0\staticwebassets\.NetCore.StaticWebAssets.xml
+C:\Users\Abdullah Javed\Desktop\.NetCore\obj\Debug\net5.0\scopedcss\bundle\.NetCore.styles.css
+C:\Users\Abdullah Javed\Desktop\.NetCore\obj\Debug\net5.0\.NetCore.RazorTargetAssemblyInfo.cache
+C:\Users\Abdullah Javed\Desktop\.NetCore\obj\Debug\net5.0\.NetCore.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\obj\Debug\net5.0\ref\.NetCore.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\obj\Debug\net5.0\.NetCore.pdb
+C:\Users\Abdullah Javed\Desktop\.NetCore\obj\Debug\net5.0\.NetCore.genruntimeconfig.cache
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Abdullah Javed\Desktop\.NetCore\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\2021-10\inventory_managment\inventory_api-master\bin\Debug\net5.0\.NetCore.deps.json
+D:\2021-10\inventory_managment\inventory_api-master\bin\Debug\net5.0\.NetCore.runtimeconfig.json
+D:\2021-10\inventory_managment\inventory_api-master\bin\Debug\net5.0\.NetCore.runtimeconfig.dev.json
+D:\2021-10\inventory_managment\inventory_api-master\obj\Debug\net5.0\.NetCore.pdb
